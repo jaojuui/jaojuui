@@ -38,26 +38,26 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 # 🎨 UX/UI Design Work
 
 ## Web Application
-🔗 GoEvent : https://www.figma.com/design/HDqfjficFQp8Z2CobcTPBb/Final_Project-Web?node-id=0-1&t=TVSzV00trFhrdf8Y-1
+🔗 GoEvent : Link
 
 
 ## Application
-🔗 MyVocab : [(Link)](https://www.figma.com/design/6nyeivYCF8fOicIvK5IHzk/MyVocab?node-id=0-1&t=JiJWjFxwFJuoJmnU-1)
+🔗 MyVocab :Link
 
-🔗 RapDeli : [(Link)](https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1)
+🔗 RapDeli : Link
 
 
 # Project Experience
 ## 🌐 GoEvent (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL
 
-🔗 Project Link: https://finalwebproject-goevent.onrender.com/
+🔗 Project Link: 
 
 
 ## ⌨️ Typing (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript
 
-🔗 Project Link: [https://...](https://typing-game-two-pi.vercel.app/)
+🔗 Project Link: 
 
 ---
 

@@ -52,7 +52,8 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 ---
 
 ## Application
-🔗 MyVocab : (ใส่ลิงก์ที่นี่)
+🔗 MyVocab : [(Link)](https://www.figma.com/design/6nyeivYCF8fOicIvK5IHzk/MyVocab?node-id=0-1&t=JiJWjFxwFJuoJmnU-1)
+
 🔗 RapDeli : [(Link)](https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1)
 
 ---

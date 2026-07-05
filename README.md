@@ -2,11 +2,10 @@
 💻 Developer | Backend | Frontend
 
 ## 🛠 Tech Stack
-- Python
-- JavaScript
-- Node.js
-- React
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaojuui&show_icons=true)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!--
 **jaojuui/jaojuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

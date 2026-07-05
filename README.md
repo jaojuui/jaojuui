@@ -47,14 +47,14 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 🔗 RapDeli : [(Link)](https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1)
 
 
-
-### 🌐 GoEvent (Web Application)
+### Project Experience
+## 🌐 GoEvent (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL
 
 🔗 Project Link: https://finalwebproject-goevent.onrender.com/
 
 
-### ⌨️ Typing (Web Application)
+## ⌨️ Typing (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 Project Link: [https://...](https://typing-game-two-pi.vercel.app/)

@@ -73,15 +73,15 @@ Passionate about building web and mobile applications with clean code and intuit
 
 > Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
 
-**Tech Stack** `HTML` `CSS` `PHP` 
+- **Tech Stack** `HTML` `CSS` `PHP` 
 
-🔗 Project Link
+- 🔗 Project Link
 
 ---
 
 ### ⌨️ Typing Game
 
--  Typing practice web application
+>  Typing practice web application
 
 - **Tech Stack**  `HTML` `CSS` `JavaScript`
 
@@ -93,9 +93,9 @@ Passionate about building web and mobile applications with clean code and intuit
 
 > Developed a game store website prototype
 
-**Tech Stack** `TypeScript` `CSS` `HTML`
+- **Tech Stack** `TypeScript` `CSS` `HTML`
 
-🔗 Project Link
+- 🔗 Project Link
 
 ---
 

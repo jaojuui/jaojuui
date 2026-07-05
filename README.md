@@ -44,24 +44,18 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 
 ---
 
-## 🎨 UX/UI Design Work
+# 🎨 UX/UI Design Work
 
-### 🧠 MyVocab (Educational Application)
-![MyVocab](./images/myvocab.png)  
-🔗 Project Link: (ใส่ลิงก์ที่นี่)
-
----
-
-### 🍔 RapDeli (Delivery Application)
-![RapDeli](./images/rapdeli.png)  
-🔗 Project Link: (ใส่ลิงก์ที่นี่)
+## Web Application
+🔗 GoEvent : https://www.figma.com/design/HDqfjficFQp8Z2CobcTPBb/Final_Project-Web?node-id=0-1&t=TVSzV00trFhrdf8Y-1
 
 ---
 
-### 📅 GoEvent (Web Application)
-![GoEvent](./images/goevent.png)  
-![GoEvent](./images/goevent-2.png)  
-🔗 Project Link: (ใส่ลิงก์ที่นี่)
+## Application
+🔗 MyVocab : (ใส่ลิงก์ที่นี่)
+🔗 RapDeli : (ใส่ลิงก์ที่นี่)
+
+---
 
 
 ### 🌐 GoEvent (Web Application)

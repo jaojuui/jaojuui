@@ -63,6 +63,18 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 ![GoEvent](./images/goevent-2.png)  
 🔗 Project Link: (ใส่ลิงก์ที่นี่)
 
+
+### 🌐 GoEvent (Web Application)
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL
+
+🔗 Project Link: https://...
+
+---
+
+### ⌨️ Typing (Web Application)
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Project Link: https://...
 ---
 
 ## ✨ Note

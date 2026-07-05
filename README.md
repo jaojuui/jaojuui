@@ -69,7 +69,6 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 
 🔗 Project Link: https://finalwebproject-goevent.onrender.com/
 
----
 
 ### ⌨️ Typing (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript

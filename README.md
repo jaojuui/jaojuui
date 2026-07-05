@@ -61,11 +61,11 @@ Passionate about building web and mobile applications with clean code and intuit
 # 🎨 UX/UI Design
 
 ## Web Application 
-- GoEvent | 🔗
+- GoEvent | 🔗 https://www.figma.com/design/HDqfjficFQp8Z2CobcTPBb/Final_Project-Web?node-id=0-1&t=TVSzV00trFhrdf8Y-1
 
 ## Mobile Application
-- MyVocab | 🔗
-- RapDeli | 🔗
+- MyVocab | 🔗 https://www.figma.com/design/6nyeivYCF8fOicIvK5IHzk/MyVocab?node-id=0-1&t=JiJWjFxwFJuoJmnU-1
+- RapDeli | 🔗 https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1
 
 ---
 
@@ -77,7 +77,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 - **Tech Stack** `HTML` `CSS` `PHP` 
 
-- 🔗 Project Link
+- 🔗 Project Link | https://finalwebproject-goevent.onrender.com/
 
 ---
 
@@ -87,7 +87,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 - **Tech Stack**  `HTML` `CSS` `JavaScript`
 
-- 🔗 Project Link
+- 🔗 Project Link | https://...](https://typing-game-two-pi.vercel.app/
 
 ---
 
@@ -97,7 +97,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 - **Tech Stack** `TypeScript` `CSS` `HTML`
 
-- 🔗 Project Link
+- 🔗 Project Link | https://web-coin-game.vercel.app/
 
 ---
 
@@ -106,7 +106,7 @@ Passionate about building web and mobile applications with clean code and intuit
 🏆 **Back End Development and APIs**
 **freeCodeCamp • 2025**
 
-🔗 Certificate Link
+🔗 Certificate Link | https://www.freecodecamp.org/certification/kanyaporn_rungsang/back-end-development-and-apis
 
 ---
 

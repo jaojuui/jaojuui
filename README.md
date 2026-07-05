@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Jaojui.
+💻 Developer | Backend | Frontend
+
+## 🛠 Tech Stack
+- Python
+- JavaScript
+- Node.js
+- React
+
 
 <!--
 **jaojuui/jaojuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -81,11 +81,11 @@ Passionate about building web and mobile applications with clean code and intuit
 
 ### ⌨️ Typing Game
 
-> Typing practice web application
+-  Typing practice web application
 
-**Tech Stack**  `HTML` `CSS` `JavaScript`
+- **Tech Stack**  `HTML` `CSS` `JavaScript`
 
-🔗 Project Link
+- 🔗 Project Link
 
 ---
 

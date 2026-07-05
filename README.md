@@ -47,7 +47,7 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 🔗 RapDeli : [(Link)](https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1)
 
 
-### Project Experience
+# Project Experience
 ## 🌐 GoEvent (Web Application)
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MySQL
 
@@ -58,6 +58,8 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 Project Link: [https://...](https://typing-game-two-pi.vercel.app/)
+
+---
 
 ## ✨ Note
 - Replace images in `/images/` folder with your real screenshots

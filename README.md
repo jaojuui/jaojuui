@@ -6,7 +6,7 @@
 - JavaScript
 - Node.js
 - React
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaojuui&show_icons=true)
 
 <!--
 **jaojuui/jaojuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

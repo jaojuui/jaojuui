@@ -46,11 +46,13 @@ Passionate about building web and mobile applications with clean code and intuit
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
+---
 
 # 🎨 UX/UI Design
 
 ## Web Application 
 - GoEvent | 🔗
+
 ##Mobile Application
 - MyVocab | 🔗
 - RapDeli | 🔗

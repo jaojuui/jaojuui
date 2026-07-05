@@ -18,7 +18,6 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
--
 
 ## 🧩 Development Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,14 +26,12 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
--
 
 ## ☁️ Cloud & Infrastructure
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
--
 
 ## 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,21 +39,19 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
--
+---
 
 # 🎨 UX/UI Design Work
 
 ## Web Application
 🔗 GoEvent : https://www.figma.com/design/HDqfjficFQp8Z2CobcTPBb/Final_Project-Web?node-id=0-1&t=TVSzV00trFhrdf8Y-1
 
----
 
 ## Application
 🔗 MyVocab : [(Link)](https://www.figma.com/design/6nyeivYCF8fOicIvK5IHzk/MyVocab?node-id=0-1&t=JiJWjFxwFJuoJmnU-1)
 
 🔗 RapDeli : [(Link)](https://www.figma.com/design/MHJrtNrzn0dPrETVExYzci/RapDeli?node-id=0-1&t=D3KbHcfVnjmNtTIY-1)
 
----
 
 
 ### 🌐 GoEvent (Web Application)
@@ -69,7 +64,6 @@ I work with both frontend, backend, and UX/UI design to create complete digital 
 **Tech Stack:** HTML, CSS, JavaScript
 
 🔗 Project Link: [https://...](https://typing-game-two-pi.vercel.app/)
----
 
 ## ✨ Note
 - Replace images in `/images/` folder with your real screenshots

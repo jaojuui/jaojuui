@@ -64,7 +64,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 ### 🌐 GoEvent
 
-> Event management web application
+> Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
 
 **Tech Stack**
 
@@ -88,7 +88,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 ### ⌨️ CoinGame [ Prototype, Simulator ]
 
-> Typing practice web application
+> Developed a game store website prototype
 
 **Tech Stack**
 

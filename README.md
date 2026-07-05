@@ -73,7 +73,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 ---
 
-### ⌨️ Typing
+### ⌨️ Typing Game
 
 > Typing practice web application
 

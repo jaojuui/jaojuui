@@ -28,8 +28,6 @@ Passionate about building web and mobile applications with clean code and intuit
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
-
 ## 🧩 Development Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,14 +35,10 @@ Passionate about building web and mobile applications with clean code and intuit
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
----
-
 ## ☁️ Cloud & Infrastructure
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
 
 ## 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -55,11 +49,11 @@ Passionate about building web and mobile applications with clean code and intuit
 
 # 🎨 UX/UI Design
 
-| Project    | Type               | Link           |
-| ---------- | ------------------ | -------------- |
-| 📅 GoEvent | Web Application    | 🔗 Coming Soon |
-| 📚 MyVocab | Mobile Application | 🔗 Coming Soon |
-| 🍔 RapDeli | Mobile Application | 🔗 Coming Soon |
+## Web Application 
+- GoEvent | 🔗
+##Mobile Application
+- MyVocab | 🔗
+- RapDeli | 🔗
 
 ---
 
@@ -71,7 +65,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL`
+`HTML` `CSS` `PHP` 
 
 🔗 Project Link
 
@@ -84,6 +78,18 @@ Passionate about building web and mobile applications with clean code and intuit
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
+
+🔗 Project Link
+
+---
+
+### ⌨️ CoinGame [ Prototype, Simulator ]
+
+> Typing practice web application
+
+**Tech Stack**
+
+`TypeScript` `CSS` `JavaScript`
 
 🔗 Project Link
 

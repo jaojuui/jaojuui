@@ -84,16 +84,6 @@ Passionate about building web and mobile applications with clean code and intuit
 
 # 🚀 Project Experience
 
-### 🌐 GoEvent
-
-> Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
-
-- **Tech Stack** `HTML` `CSS` `PHP` 
-
-- 🔗 Project Link | https://finalwebproject-goevent.onrender.com/
-
----
-
 ### ⌨️ Typing Game
 
 >  Typing practice web application
@@ -107,10 +97,22 @@ Passionate about building web and mobile applications with clean code and intuit
 ### ⌨️ CoinGame [ Prototype, Simulator ]
 
 > Developed a game store website prototype
+> Email : user123@gmail.com, Password : user123
 
 - **Tech Stack** `TypeScript` `CSS` `HTML`
 
 - 🔗 Project Link | https://web-coin-game.vercel.app/
+
+---
+
+### 🌐 GoEvent
+
+> Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
+> email : user123@gmail.com , password : user123
+
+- **Tech Stack** `HTML` `CSS` `PHP` 
+
+- 🔗 Project Link | https://finalwebproject-goevent.onrender.com/
 
 ---
 

@@ -4,7 +4,6 @@
 
 ### 💻 Backend Developer • Frontend Developer • UX/UI Designer
 
-Passionate about building web and mobile applications with clean code and intuitive user experiences.
 
 </div>
 
@@ -12,10 +11,7 @@ Passionate about building web and mobile applications with clean code and intuit
 
 ## 🚀 About Me
 
-* 💻 Interested in Full-Stack Development
-* 🎨 Passionate about UX/UI Design
-* 🌱 Always learning new technologies
-* 🚀 Enjoy building real-world applications
+* 💻 4th-year Computer Science Student 
 
 ---
 # 🛠 Tech Stack

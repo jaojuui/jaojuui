@@ -98,7 +98,6 @@ Passionate about building web and mobile applications with clean code and intuit
 
 > Developed a game store website prototype
 
-> Email : user123@gmail.com, Password : user123
 
 - **Tech Stack** `TypeScript` `CSS` `HTML`
 
@@ -109,8 +108,6 @@ Passionate about building web and mobile applications with clean code and intuit
 ### 🌐 GoEvent
 
 > Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
-
-> email : user123@gmail.com , password : user123
 
 - **Tech Stack** `HTML` `CSS` `PHP` 
 

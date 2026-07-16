@@ -101,6 +101,16 @@
 
 ---
 
+### 🌐 Easy QR Code
+
+> Users can create QR Code 
+
+- **Tech Stack** `HTML` `CSS` `JavaScript` 
+
+- 🔗 Project Link | https://easy-qr-code.vercel.app/
+
+---
+
 ### 🌐 GoEvent
 
 > Users can create and attend activities. Activity owners can track participants during check- in using an OTP number or a QR code.
